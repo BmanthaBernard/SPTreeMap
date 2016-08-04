@@ -1,0 +1,23 @@
+{
+  "name": "SPTreeMap",
+  "version": "0.0.0",
+  "description": "A file analysis tool for SharePoint Document Librariess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SharePoint",
+    "Files",
+    "Document",
+    "Library"
+  ],
+  "author": "Bernard Mantha",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-spsave": "^2.0.2",
+    "spsave": "^2.1.2"
+  }
+}
