@@ -1,0 +1,26 @@
+{
+  "name": "SPTreeMap",
+  "description": "A file analysis tool for SharePoint Document Librariess",
+  "main": "index.js",
+  "authors": [
+    "Bernard Mantha"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "SharePoint",
+    "Files",
+    "Document",
+    "Library"
+  ],
+  "homepage": "https://github.com/BmanthaBernard/SPTreeMap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
