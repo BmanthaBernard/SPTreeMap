@@ -7,9 +7,8 @@ gulp.task("spsave", function () {
         .pipe(spsave({
             siteUrl: settings.siteUrl,
             username: settings.username,
-            //domain: settings.domain,
             password: settings.password,
-            folder: "SiteAssets",
-            flatten: true
+            folder: "Style Library/JSApps/App1",
+            flatten: false
         }));
 });
