@@ -98,7 +98,7 @@ gulp.task("spsave", function () {
             username: settings.username,
             //domain: settings.domain,
             password: settings.password,
-            folder: "SiteAssets/jsapps/sptreemap",
+            folder: "treenode",
             flatten: false
         }));
 });
